@@ -1,0 +1,17 @@
+body {
+  background-color: rgba(79, 56, 104, 0.459);
+  background-repeat: no-repeat;
+
+}
+
+   .col-md-4 {
+    color: rgba(71, 73, 65, 0.849);
+    font-size: large;
+    
+  }
+  .col-md-4 p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+   }
